@@ -6,8 +6,8 @@
 body{
     width: 720px;
     height: 1015px;
-    background-color: rgb(206, 222, 182);
-    margin: 100px auto;
+    background-color: transparent;
+    margin:  auto;
 }
 .cv{
     width: 100%;
